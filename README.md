@@ -18,9 +18,14 @@ Cette application est un journal intime numérique développé avec [Expo](https
    npm install
    ```
 
-2. Configurer les variables d'environnement
+2. Configuration Firebase
    
-   Copiez le fichier `.env.example` en `.env` et remplissez les variables avec vos informations Firebase.
+   a. Copiez le fichier `.env.example` en `.env` et remplissez les variables avec vos informations Firebase.
+   
+   b. Dans votre projet Firebase, téléchargez les fichiers de configuration suivants :
+   - Pour iOS : `GoogleService-Info.plist`
+   - Pour Android : `google-services.json`
+   - Pour web : `firebaseConfig.ts`
 
 3. Lancer l'application
 
