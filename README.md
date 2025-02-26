@@ -2,6 +2,8 @@
 
 Cette application est un journal intime numérique développé avec [Expo](https://expo.dev) qui permet aux utilisateurs de noter leurs humeurs et pensées quotidiennes.
 
+https://github.com/user-attachments/assets/b4ec4891-f0e8-4744-8a64-87d2fb24c352
+
 ## Fonctionnalités principales
 
 - 📝 Création d'entrées quotidiennes dans le journal
