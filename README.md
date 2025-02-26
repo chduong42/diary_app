@@ -5,10 +5,10 @@ Cette application est un journal intime numérique développé avec [Expo](https
 ## Fonctionnalités principales
 
 - 📝 Création d'entrées quotidiennes dans le journal
-- 😊 Suivi de l'humeur avec tableau de bord
+- 😊 Suivi de votre humeur globale avec tableau de bord
 - 📅 Vue calendrier pour visualiser l'historique
-- 🔒 Authentification sécurisée des utilisateurs
-- 💾 Stockage des données avec Firebase
+- 🔒 Authentification sécurisée des utilisateurs avec Google et Github
+- 💾 Stockage des données avec le Cloud Firebase (Firestore)
 
 ## Installation et démarrage
 
